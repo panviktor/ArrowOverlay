@@ -16,6 +16,11 @@
 			path = ArrowOverlay;
 			sourceTree = "<group>";
 		};
+		77899F822D637C1000511FF2 /* Images */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Images;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +37,7 @@
 		77899F472D6378AB00511FF2 = {
 			isa = PBXGroup;
 			children = (
+				77899F822D637C1000511FF2 /* Images */,
 				77899F522D6378AB00511FF2 /* ArrowOverlay */,
 				77899F512D6378AB00511FF2 /* Products */,
 			);
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				77899F522D6378AB00511FF2 /* ArrowOverlay */,
+				77899F822D637C1000511FF2 /* Images */,
 			);
 			name = ArrowOverlay;
 			packageProductDependencies = (
