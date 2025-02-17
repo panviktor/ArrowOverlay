@@ -36,6 +36,9 @@ This project demonstrates an animated arrow overlay in SwiftUI using Anchor Pref
 
 Example:
 
+<img src="https://github.com/panviktor/ArrowOverlay/blob/main/Images/image.png?raw=true" width="400" alt="ArrowOverlay Screenshot" />
+
+
 ```swift
 struct AnchorPreferencesArrowsExample: View {
     let items: [Item] = [
